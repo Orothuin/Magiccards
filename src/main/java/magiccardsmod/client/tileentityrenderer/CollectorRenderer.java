@@ -42,7 +42,7 @@ public class CollectorRenderer extends TileEntityRenderer<CollectorTileEntity> {
 		int i=1;
 		
 		if(tile.getWorld().getDimension().isNether())i=3;
-		else if(tile.getPos().getY()>190)i=2;
+		else if(tile.getPos().getY()>EssenceCollectorBlock.WINDESSENCE_HEIGHT)i=2;
 		
 		BlockState state = world.getBlockState(pos).with(EssenceCollectorBlock.SPHERE, i);
 		IBakedModel model = blockRenderer.getBlockModelShapes().getModel(state);

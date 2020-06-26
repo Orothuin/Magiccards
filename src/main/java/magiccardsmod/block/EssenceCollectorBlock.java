@@ -65,7 +65,9 @@ public class EssenceCollectorBlock extends Block {
 	private static final VoxelShape v2_1N = VoxelShapes.or(v1_2N, v1_3N);
 
 	private static final VoxelShape v3_0N = VoxelShapes.or(v2_0N, v2_1N);
-
+	
+	
+	public static final int WINDESSENCE_HEIGHT=140;
 	public static final IntegerProperty SPHERE = IntegerProperty.create("sphere", 0, 3);
 	public static final BooleanProperty WATERLOGGED = BlockStateProperties.WATERLOGGED;
 
@@ -105,7 +107,7 @@ public class EssenceCollectorBlock extends Block {
 
 			if (collector.getWorld().getDimension().isNether())
 				essence = new ItemStack(ItemInit.HELL_ESSENCE.get());
-			else if (collector.getPos().getY() > 190)
+			else if (collector.getPos().getY() > WINDESSENCE_HEIGHT)
 				essence = new ItemStack(ItemInit.WIND_ESSENCE.get());
 			else
 				essence = new ItemStack(ItemInit.NATURE_ESSENCE.get());
