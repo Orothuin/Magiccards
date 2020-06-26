@@ -1,0 +1,17 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "specialcriterion":"ore",
+      "insert": true
+    },
+    {
+    "item": "magiccards:windessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:oreseeker",
+    "level": 1
+  },
+  "tablelevel":1
+}

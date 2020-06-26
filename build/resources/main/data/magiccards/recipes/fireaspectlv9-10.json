@@ -1,0 +1,18 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+    "item": "magiccards:hellessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:fireaspect",
+    "level": 9
+  },
+  "stackableMaxLevel": 10,
+  "canApplyAtLevel": 8,
+  "tablelevel":3
+}

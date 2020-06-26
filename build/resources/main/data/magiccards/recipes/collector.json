@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "KBK",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stone_brick_slab"
+    },
+    "B": {
+      "item": "minecraft:stone_bricks"
+    },
+    "K": {
+      "item": "magiccards:magiccard"
+    }
+  },
+  "result": {
+    "item": "magiccards:collector"
+  }
+}

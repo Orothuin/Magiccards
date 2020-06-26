@@ -1,0 +1,25 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:shears"
+    },
+    {
+      "item": "minecraft:iron_hoe"
+    },
+    {
+      "item": "minecraft:wheat_seeds"
+    },
+    {
+      "item": "minecraft:wheat_seeds"
+    },
+    {
+    "item": "magiccards:windessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:cropsharvest",
+    "level": 1
+  },
+  "tablelevel":1
+}

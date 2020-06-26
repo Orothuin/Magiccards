@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "magiccards:magiccard"
+    },
+    {
+      "item": "magiccards:natureessence"
+    },
+    {
+      "item": "minecraft:ink_sac"
+    }
+  ],
+  "result": {
+    "item": "magiccards:infocarddeck"
+  }
+}

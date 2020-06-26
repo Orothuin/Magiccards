@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "W#W",
+    "#A#",
+    "W#W"
+  ],
+  "key": {
+    "#": {
+      "item": "magiccards:stainedwoodslab"
+    },
+    "W": {
+      "item": "minecraft:gold_nugget"
+    },
+    "A": {
+      "item": "magiccards:magiccard"
+    }
+  },
+  "result": {
+    "item": "magiccards:topplate",
+    "count": 1
+  }
+}

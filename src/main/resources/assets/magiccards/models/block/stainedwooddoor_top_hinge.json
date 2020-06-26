@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_top_rh",
+    "textures": {
+        "bottom": "magiccards:blocks/stainedwooddoor_bottom",
+        "top": "magiccards:blocks/stainedwooddoor_top"
+    }
+}

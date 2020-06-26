@@ -1,0 +1,21 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "minecraft:shield"
+    },
+    {
+    "item": "magiccards:windessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:durability",
+    "level": 4
+  },
+  "stackableMaxLevel": 7,
+  "canApplyAtLevel": 3,
+  "tablelevel":2
+}

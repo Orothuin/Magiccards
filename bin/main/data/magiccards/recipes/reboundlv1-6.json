@@ -1,0 +1,17 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:slime_ball"
+    },
+    {
+    "item": "magiccards:natureessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:rebound",
+    "level": 1
+  },
+  "stackableMaxLevel": 6,
+  "tablelevel":1
+}

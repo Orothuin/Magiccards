@@ -1,0 +1,26 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_sword"
+    },
+    {
+      "item":"minecraft:quartz"
+    },
+     {
+      "item":"minecraft:quartz"
+    },
+     {
+      "item":"minecraft:quartz"
+    },
+    {
+    "item": "magiccards:windessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:sharpedges",
+    "level": 1
+  },
+  "stackableMaxLevel": 2,
+  "tablelevel":1
+}

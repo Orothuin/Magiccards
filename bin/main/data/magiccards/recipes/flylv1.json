@@ -1,0 +1,16 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:feather"
+    },
+    {
+    "item": "magiccards:windessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:fly",
+    "level": 1
+  },
+  "tablelevel":2
+}

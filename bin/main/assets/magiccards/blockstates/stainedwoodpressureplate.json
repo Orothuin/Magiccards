@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "magiccards:block/stainedwoodpressureplate" },
+        "powered=true": { "model": "magiccards:block/stainedwoodpressureplate_down" }
+    }
+}

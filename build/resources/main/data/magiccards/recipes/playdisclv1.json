@@ -1,0 +1,17 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "tag": "minecraft:music_discs",
+      "insert": true
+    },
+    {
+    "item": "magiccards:hellessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:playdisc",
+    "level": 1
+  },
+  "tablelevel":2
+}

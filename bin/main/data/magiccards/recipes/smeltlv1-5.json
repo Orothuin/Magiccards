@@ -1,0 +1,29 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "minecraft:coal"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "minecraft:coal"
+    },
+    {
+      "item": "minecraft:furnace"
+    },
+    {
+    "item": "magiccards:natureessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:smelt",
+    "level": 1
+  },
+  "stackableMaxLevel": 5,
+  "tablelevel":1
+}

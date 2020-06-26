@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "magiccards:connectionpole"
+    },
+    {
+      "item": "magiccards:connectioncube"
+    }
+  ],
+  "result": {
+    "item": "magiccards:connection"
+  }
+}

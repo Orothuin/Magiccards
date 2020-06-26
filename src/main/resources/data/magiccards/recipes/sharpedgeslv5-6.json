@@ -1,0 +1,27 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond_sword"
+    },
+    {
+      "item":"minecraft:quartz_block"
+    },
+     {
+      "item":"minecraft:quartz_block"
+    },
+     {
+      "item":"minecraft:quartz_block"
+    },
+    {
+    "item": "magiccards:hellessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:sharpedges",
+    "level": 5
+  },
+  "stackableMaxLevel": 6,
+  "canApplyAtLevel": 4,
+  "tablelevel":3
+}

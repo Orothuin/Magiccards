@@ -1,0 +1,71 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [36, 36],
+	"textures": {
+		"0": "magiccards:blocks/cardtable",
+		"particle": "magiccards:blocks/cardtable"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 2],
+			"to": [14, 2, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10, 9, 10]},
+			"faces": {
+				"north": {"uv": [0, 12.88889, 5.33289, 13.77733], "texture": "#0"},
+				"east": {"uv": [0, 12.88889, 5.33289, 13.77733], "texture": "#0"},
+				"south": {"uv": [0, 12.88889, 5.33289, 13.77733], "texture": "#0"},
+				"west": {"uv": [0, 12.88889, 5.33289, 13.77733], "texture": "#0"},
+				"up": {"uv": [0, 7.55511, 5.33289, 12.888], "texture": "#0"},
+				"down": {"uv": [0, 7.55511, 5.33289, 12.888], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [41.5, 0, 0],
+			"translation": [0, 2.25, 0.75],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [41.5, 0, 0],
+			"translation": [0, 2.25, 0.75],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"translation": [3.25, 5, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [4.5, 5, 0]
+		},
+		"ground": {
+			"translation": [0, 3.5, 0]
+		},
+		"gui": {
+			"rotation": [20.75, -142, 0],
+			"scale": [0.67969, 0.59375, 0.84375]
+		},
+		"fixed": {
+			"rotation": [91.25, 0, 0],
+			"translation": [0, 0.5, 6],
+			"scale": [1, 0.92188, 1]
+		}
+	},
+	"groups": [
+		{
+			"name": "Bone",
+			"origin": [8, 8, 8],
+			"children": [
+				{
+					"name": "group",
+					"origin": [8, 8, 8],
+					"children": [0, 1, 2, 3, 4, 5]
+				},
+				{
+					"name": "group",
+					"origin": [8, 5.25, 9],
+					"children": [6]
+				}
+			]
+		}
+	]
+}

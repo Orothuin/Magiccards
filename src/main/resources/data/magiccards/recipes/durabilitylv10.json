@@ -1,0 +1,17 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_star"
+    },
+    {
+    "item": "magiccards:hellessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:durability",
+    "level": 10
+  },
+  "canApplyAtLevel": 9,
+  "tablelevel":3
+}

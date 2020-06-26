@@ -1,0 +1,18 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+    "item": "magiccards:hellessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:durability",
+    "level": 8
+  },
+  "stackableMaxLevel": 9,
+  "canApplyAtLevel": 7,
+  "tablelevel":3
+}

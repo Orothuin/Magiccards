@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "W#W",
+    "WWW"
+  ],
+  "key": {
+    "#": {
+      "item": "magiccards:stain"
+    },
+    "W": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "magiccards:stainedwoodplanks",
+  	"count": 8
+  }
+} 

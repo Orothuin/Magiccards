@@ -1,0 +1,18 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:blaze_rod"
+    },
+    {
+    "item": "magiccards:windessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:fireaspect",
+    "level": 4
+  },
+  "stackableMaxLevel": 8,
+  "canApplyAtLevel": 4,
+  "tablelevel":2
+}

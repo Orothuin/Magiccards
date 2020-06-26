@@ -1,0 +1,16 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:shears"
+    },
+    {
+    "item": "magiccards:windessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:leavedecay",
+    "level": 2
+  },
+  "tablelevel":2
+}

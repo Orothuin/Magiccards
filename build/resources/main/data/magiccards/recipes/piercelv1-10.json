@@ -1,0 +1,20 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "magiccards:sharpedgeiron"
+    },
+    {
+      "item": "minecraft:grindstone"
+    },
+    {
+    "item": "magiccards:windessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:pierce",
+    "level": 1
+  },
+  "tablelevel":1,
+  "stackableMaxLevel": 10
+}

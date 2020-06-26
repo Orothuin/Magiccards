@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "magiccards:block/cardtable" },
+        "facing=south": { "model": "magiccards:block/cardtable", "y": 180 },
+        "facing=west":  { "model": "magiccards:block/cardtable", "y": 270 },
+        "facing=east":  { "model": "magiccards:block/cardtable", "y": 90 }
+    }
+}

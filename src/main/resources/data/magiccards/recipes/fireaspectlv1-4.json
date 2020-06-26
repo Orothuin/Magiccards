@@ -1,0 +1,17 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+    "item": "magiccards:natureessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:fireaspect",
+    "level": 1
+  },
+  "stackableMaxLevel": 4,
+  "tablelevel":1
+}

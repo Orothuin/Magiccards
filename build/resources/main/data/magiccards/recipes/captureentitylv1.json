@@ -1,0 +1,22 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:tripwire_hook"
+    },
+    {
+      "item": "minecraft:cobweb"
+    },
+    {
+      "item": "minecraft:ender_chest"
+    },
+    {
+    "item": "magiccards:natureessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:captureentity",
+    "level": 1
+  },
+  "tablelevel":2
+}

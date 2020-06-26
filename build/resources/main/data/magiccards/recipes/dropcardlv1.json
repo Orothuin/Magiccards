@@ -1,0 +1,19 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:dropper"
+    },
+    {
+      "tag": "minecraft:buttons"
+    },
+    {
+    "item": "magiccards:windessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:dropcard",
+    "level": 1
+  },
+  "tablelevel":1
+}

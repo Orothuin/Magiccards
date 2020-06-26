@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"sphere=0": { "model": "magiccards:block/colector" },
+		"sphere=1": { "model": "magiccards:block/spherenature" },
+		"sphere=2": { "model": "magiccards:block/spherewind" },
+		"sphere=3": { "model": "magiccards:block/spherehell" }
+	}
+}

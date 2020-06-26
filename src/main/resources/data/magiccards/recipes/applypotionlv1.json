@@ -1,0 +1,16 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "specialcriterion":"potion",
+      "insert": true
+    },
+    {
+      "item": "magiccards:windessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:applypotion",
+    "level": 1
+  }
+}

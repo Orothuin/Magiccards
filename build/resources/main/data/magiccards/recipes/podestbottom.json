@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "W W",
+    " # ",
+    "W W"
+  ],
+  "key": {
+    "#": {
+      "item": "magiccards:stainedwoodslab"
+    },
+    "W": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "result": {
+    "item": "magiccards:podestbottom",
+    "count": 1
+  }
+}

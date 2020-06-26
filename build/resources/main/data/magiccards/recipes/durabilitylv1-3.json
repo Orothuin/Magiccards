@@ -1,0 +1,17 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+    "item": "magiccards:natureessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:durability",
+    "level": 1
+  },
+  "stackableMaxLevel": 3,
+  "tablelevel":1
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "magiccards:topplate"
+    },
+    {
+      "item": "magiccards:connection"
+    },
+    {
+      "item": "magiccards:podest"
+    }
+  ],
+  "result": {
+    "item": "magiccards:cardtableitem"
+  }
+}

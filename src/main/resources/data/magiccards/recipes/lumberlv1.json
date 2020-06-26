@@ -1,0 +1,16 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:stone_axe"
+    },
+    {
+    "item": "magiccards:natureessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:lumber",
+    "level": 1
+  },
+  "tablelevel":2
+}

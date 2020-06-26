@@ -1,0 +1,26 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:shears"
+    },
+    {
+      "item": "minecraft:diamond_hoe"
+    },
+    {
+      "item": "minecraft:golden_carrot"
+    },
+    {
+      "item": "minecraft:wheat_seeds"
+    },
+    {
+    "item": "magiccards:natureessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:cropsharvest",
+    "level": 2
+  },
+  "canApplyAtLevel": 1,
+  "tablelevel":2
+}

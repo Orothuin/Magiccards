@@ -1,0 +1,44 @@
+{
+	"entity.magiccard.hit":{
+		"category": "entity",
+		"subtitle": "entity.magiccard.hit",
+		"sounds":[
+			{
+				"name" : "magiccards:entity/cardhit1",
+				"stream":true
+			},
+			{
+				"name" : "magiccards:entity/cardhit2",
+				"stream":true
+			},
+			{
+				"name" : "magiccards:entity/cardhit3",
+				"stream":true
+			}
+		]
+	},
+	"entity.magiccard.rip":{
+		"category": "entity",
+		"subtitle": "entity.magiccard.rip",
+		"sounds":[
+			{
+				"name" : "magiccards:entity/rip1",
+				"stream":true
+			},
+			{
+				"name" : "magiccards:entity/rip2",
+				"stream":true
+			}
+		]
+	},
+	"entity.magiccard.burn":{
+		"category": "entity",
+		"subtitle": "entity.magiccard.burn",
+		"sounds":[
+			{
+				"name" : "magiccards:entity/cardburning",
+				"stream":true
+			}
+		]
+	}		
+}

@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=north,stomp=false": { "model": "magiccards:block/cardpressbase" },
+        "facing=south,stomp=false": { "model": "magiccards:block/cardpressbase", "y": 180 },
+        "facing=west,stomp=false":  { "model": "magiccards:block/cardpressbase", "y": 270 },
+        "facing=east,stomp=false":  { "model": "magiccards:block/cardpressbase", "y": 90 },
+        "facing=north,stomp=true": { "model": "magiccards:block/cardpressstomp" },
+        "facing=south,stomp=true": { "model": "magiccards:block/cardpressstomp", "y": 180 },
+        "facing=west,stomp=true":  { "model": "magiccards:block/cardpressstomp", "y": 270 },
+        "facing=east,stomp=true":  { "model": "magiccards:block/cardpressstomp", "y": 90 }
+    }
+}

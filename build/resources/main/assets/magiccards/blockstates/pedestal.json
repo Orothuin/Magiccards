@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "magiccards:block/pedestal" },
+        "facing=south": { "model": "magiccards:block/pedestal", "y": 180 },
+        "facing=west":  { "model": "magiccards:block/pedestal", "y": 270 },
+        "facing=east":  { "model": "magiccards:block/pedestal", "y": 90 }
+    }
+}

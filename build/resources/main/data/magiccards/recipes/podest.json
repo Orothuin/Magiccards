@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "magiccards:podesttop"
+    },
+    {
+      "item": "magiccards:podestbottom"
+    }
+  ],
+  "result": {
+    "item": "magiccards:podest"
+  }
+}

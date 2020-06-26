@@ -1,0 +1,30 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:bone_meal"
+    },
+     {
+      "item": "minecraft:bone_meal"
+    },
+     {
+      "item": "minecraft:bone_meal"
+    },
+     {
+      "item": "minecraft:bone_meal"
+    },
+     {
+      "item": "minecraft:bone_block"
+    },
+    {
+    "item": "magiccards:windessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:bonemeal",
+    "level": 1
+  },
+  "stackableMaxLevel": 6,
+  "canApplyAtLevel": 3,
+  "tablelevel":2
+}

@@ -1,0 +1,17 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+    "item": "magiccards:natureessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:explosion",
+    "level": 1
+  },
+  "stackableMaxLevel": 3,
+  "tablelevel":1
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "A#A",
+    "WWW"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "W": {
+      "item": "magiccards:stainedwoodslab"
+    },
+    "A": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "result": {
+    "item": "magiccards:connectioncube",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:magma_block"
+    },
+     {
+      "item": "minecraft:water_bucket"
+    },
+     {
+      "item": "minecraft:lead"
+    },
+    {
+    "item": "magiccards:windessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:gather",
+    "level": 1
+  },
+  "stackableMaxLevel": 6,
+  "tablelevel":1
+}

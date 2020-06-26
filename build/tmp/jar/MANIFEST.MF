@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Magic Cards
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2020-06-26T14:36:51+0200
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+

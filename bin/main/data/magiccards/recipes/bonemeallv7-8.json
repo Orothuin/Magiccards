@@ -1,0 +1,30 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:grass_block"
+    },
+     {
+      "item": "minecraft:mycelium"
+    },
+     {
+      "item": "minecraft:podzol"
+    },
+     {
+      "item": "minecraft:coarse_dirt"
+    },
+     {
+      "item": "minecraft:bone_block"
+    },
+    {
+    "item": "magiccards:hellessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:bonemeal",
+    "level": 1
+  },
+  "stackableMaxLevel": 8,
+  "canApplyAtLevel": 6,
+  "tablelevel":3
+}

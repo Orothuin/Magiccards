@@ -1,0 +1,18 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:tnt"
+    },
+    {
+    "item": "magiccards:windessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:explosion",
+    "level": 4
+  },
+  "stackableMaxLevel": 6,
+  "canApplyAtLevel": 3,
+  "tablelevel":2
+}

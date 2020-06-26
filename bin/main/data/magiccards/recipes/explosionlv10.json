@@ -1,0 +1,20 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+     {
+      "item": "minecraft:tnt"
+    },
+    {
+    "item": "magiccards:hellessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:explosion",
+    "level": 10
+  },
+  "canApplyAtLevel": 9,
+  "tablelevel":3
+}

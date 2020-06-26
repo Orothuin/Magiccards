@@ -1,0 +1,9 @@
+{
+  "type": "magiccards:drycard",
+  "ingredient": {
+    "item": "magiccards:wetcard"
+  },
+  "result": "magiccards:magiccard",
+  "experience": 0.3,
+  "cookingtime": 200
+}

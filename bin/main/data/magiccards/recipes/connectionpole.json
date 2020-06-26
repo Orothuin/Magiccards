@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "W#W"
+  ],
+  "key": {
+    "#": {
+      "item": "magiccards:stainedwoodfence"
+    },
+    "W": {
+      "item": "magiccards:connectiongolddecoration"
+    }
+  },
+  "result": {
+    "item": "magiccards:connectionpole",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_sword"
+    },
+    {
+    "item": "magiccards:natureessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:leavedecay",
+    "level": 1
+  },
+  "tablelevel":1
+}

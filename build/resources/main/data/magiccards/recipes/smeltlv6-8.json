@@ -1,0 +1,30 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:blaze_rod"
+    },
+    {
+      "item": "minecraft:coal"
+    },
+    {
+      "item": "minecraft:blaze_rod"
+    },
+    {
+      "item": "minecraft:coal"
+    },
+    {
+      "item": "minecraft:blast_furnace"
+    },
+    {
+    "item": "magiccards:hellessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:smelt",
+    "level": 6
+  },
+  "stackableMaxLevel": 8,
+  "canApplyAtLevel": 5,
+  "tablelevel":2
+}

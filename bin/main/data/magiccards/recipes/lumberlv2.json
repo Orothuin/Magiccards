@@ -1,0 +1,17 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_axe"
+    },
+    {
+    "item": "magiccards:windessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:lumber",
+    "level": 2
+  },
+  "canApplyAtLevel": 1,
+  "tablelevel":2
+}

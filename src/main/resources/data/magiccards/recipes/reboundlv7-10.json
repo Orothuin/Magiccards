@@ -1,0 +1,18 @@
+{
+  "type": "magiccards:enchant",
+  "ingredients": [
+    {
+      "item": "minecraft:slime_block"
+    },
+    {
+    "item": "magiccards:windessence"
+    }
+  ],
+  "result": {
+    "enchantment": "magiccards:rebound",
+    "level": 1
+  },
+  "canApplyAtLevel": 6,
+  "stackableMaxLevel": 10,
+  "tablelevel":2
+}

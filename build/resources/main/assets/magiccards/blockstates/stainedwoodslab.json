@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "magiccards:block/stainedwoodslab" },
+        "type=top": { "model": "magiccards:block/stainedwoodslab_top" },
+        "type=double": { "model": "magiccards:block/stainedwoodplanks" }
+    }
+}
