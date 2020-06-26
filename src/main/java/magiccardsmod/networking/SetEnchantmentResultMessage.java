@@ -22,7 +22,7 @@ public class SetEnchantmentResultMessage {
 		this.enchantment=enchantment;
 		this.windowId = windowId;
 		this.level=level;
-		System.out.println("RESUKT");
+		
 	}
 	
 	public SetEnchantmentResultMessage(ResourceLocation enchantment,int windowId,int level) {
@@ -33,14 +33,14 @@ public class SetEnchantmentResultMessage {
 	}
 	
 public static void encode(SetEnchantmentResultMessage msg, PacketBuffer buffer) {
-	System.out.println("RESUKT");
+	
 		buffer.writeResourceLocation(msg.enchantment!=null ? msg.enchantment.getRegistryName() : new ResourceLocation("magiccards:empty"));
 		buffer.writeInt(msg.windowId);
 		buffer.writeInt(msg.level);
 	}
 	
 	public static SetEnchantmentResultMessage decode(PacketBuffer buffer) {
-		System.out.println("RESUKT");
+		
 		return new SetEnchantmentResultMessage(buffer.readResourceLocation(),buffer.readInt(),buffer.readInt());
 	}
 	

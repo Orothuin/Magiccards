@@ -15,16 +15,16 @@ public class UpdateEnchantedItemMessage {
 	
 	public UpdateEnchantedItemMessage(ItemStack stack) {
 		this.stack=stack;
-		System.out.println("STACK");
+		
 	}
 	
 public static void encode(UpdateEnchantedItemMessage msg, PacketBuffer buffer) {
-	System.out.println("STACK");
+	
 		buffer.writeItemStack(msg.stack);
 	}
 	
 	public static UpdateEnchantedItemMessage decode(PacketBuffer buffer) {
-		System.out.println("STACK");
+		
 		return new UpdateEnchantedItemMessage(buffer.readItemStack());
 	}
 	

@@ -16,18 +16,18 @@ public class SyncPageMessage {
 	
 	public SyncPageMessage(Page page) {
 		this.page=page;
-		System.out.println("SYNC");
+		
 	}
 	
 	public static void encode(SyncPageMessage msg, PacketBuffer buffer) {
 		Page page = msg.page;
-		System.out.println("SYNC");
+		
 		page.encode(buffer);
 	}
 	
 	
 	public static SyncPageMessage decode(PacketBuffer buffer) {
-		System.out.println("SYNC");
+		
 		return new SyncPageMessage (Page.decode(buffer));
 	}
 	

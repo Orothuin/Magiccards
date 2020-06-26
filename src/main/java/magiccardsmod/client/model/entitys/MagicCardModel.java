@@ -4,7 +4,9 @@ import magiccardsmod.entity.MagicCardEntity;
 import net.minecraft.client.renderer.entity.model.EntityModel;
 import net.minecraft.client.renderer.entity.model.RendererModel;
 import net.minecraft.client.renderer.model.ModelBox;
-
+import net.minecraftforge.api.distmarker.Dist;
+import net.minecraftforge.api.distmarker.OnlyIn;
+@OnlyIn(Dist.CLIENT)
 public class MagicCardModel extends EntityModel<MagicCardEntity> {
 	private final RendererModel bone;
 	private final RendererModel bone8;

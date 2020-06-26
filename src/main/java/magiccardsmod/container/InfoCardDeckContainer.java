@@ -26,7 +26,6 @@ public class InfoCardDeckContainer extends Container {
 
 	private ArrayList<Page> pages;
 
-	
 	public InfoCardDeckContainer(int id, final PlayerInventory playerInv, final PacketBuffer buffer) {
 
 		super(ContainerInit.INFOCARDDECK_TYPE.get(), id);
